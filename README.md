@@ -1,7 +1,6 @@
-[Screenshot 2025-05-28 084527](https://github.com/user-attachments/assets/1d1b58f5-1eec-45d3-921c-a81622dd0ca6)
-# 🎬 Movie Website
 
-![Movie Website Preview](assets/screenshot-homepage.png)
+
+![Screenshot 2025-05-28 084527](https://github.com/user-attachments/assets/3a34817b-591a-42ff-b3b5-2a06a483d9aa)
 
 ## About System
 
